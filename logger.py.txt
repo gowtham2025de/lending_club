@@ -1,1 +1,2 @@
 # this is used to add logs
+print("Logging Started")
